@@ -1,2 +1,3 @@
-# News App with News API
+# Flutter News App
+
 
